@@ -1,0 +1,13 @@
+h1, p {
+  font-family: Lato;
+}
+
+.box {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.reducer-button {
+  margin-left: 5px;
+}
