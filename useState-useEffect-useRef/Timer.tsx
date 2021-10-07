@@ -24,7 +24,7 @@ function Timer() {
 
   return (
     <div>
-      <h1>Timer (useState, useEffect, useRef)</h1>
+      <h1>Timer</h1>
       <button onClick={startTimer}>Start Timer</button>
       &nbsp;&nbsp;
       <button onClick={clearTimer}>Clear Timer</button>
